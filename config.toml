@@ -1,0 +1,45 @@
+baseurl                  = "/"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "MENU"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+
+    footerText           = "seafood restaurant menu"
+
+# Metadata for Open Graph and Twitter
+    description          = "seafood restaurant menu"               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "seafood restaurant menu"
+    # rss                = ""
+
+[[params.videoBackground.sources]]
+    source  = "/sample_video.mp4"
+    type    = "video/mp4"
+    poster  = "/background.png"
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+[[params.mainMenu]]
+    text = "menu"
+
+[[params.mainMenu]]
+    link = "food"
+    text = "☞ food"
+
+
+[[params.mainMenu]]
+    link = "drinks"
+    text = "☞ drinks"
+
+
+[imaging]
+    quality = 75
