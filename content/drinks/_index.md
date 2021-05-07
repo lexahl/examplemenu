@@ -10,7 +10,7 @@ td, th {
 }
 </style>
 
-<h1> ☞ non-alcoholic </h1>  
+# ☞ non-alcoholic  
 
 | water  |  2 |
 |---|---|
@@ -19,7 +19,7 @@ td, th {
 | lemonade  |  5 |
 
 
-<h1> ☞ alcoholic </h1>
+# ☞ alcoholic 
 
 | margarita | 5 |
 |---|---|

@@ -10,7 +10,7 @@ td, th {
 }
 </style>
 
-<h1> ☞ to start </h1> 
+# ☞ to start
 
 | ceviche  |  12 |
 |---|---|
@@ -19,7 +19,7 @@ td, th {
 | oyster  |  2 |
 | seafood tower  |  50 |
 
-<h1> ☞ main </h1>  
+# ☞ main 
 
 | garlic shrimp  |  10 |
 |---|---|
@@ -29,7 +29,7 @@ td, th {
 | lobster pasta | 25 |
 
 
-<h1> ☞ dessert </h1>
+# ☞ dessert 
 
 | ice cream  | 3 |
 |---|---|
