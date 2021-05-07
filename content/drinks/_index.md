@@ -10,52 +10,21 @@ td, th {
 }
 </style>
 
+<h1> ☞ non-alcoholic </h1>  
 
-<table>
+| water  |  2 |
+|---|---|
+| coffee  | 2  |
+| sparkling water  |  5 |
+| lemonade  |  5 |
 
-<tr>
-<th> water </th>
-<th> 2 </th>
-</tr>
 
-<tr>
-<th> coke </th>
-<th> 2 </th>
-</tr>
+<h1> ☞ alcoholic </h1>
 
-<tr>
-<th> coffee </th>
-<th> 3 </th>
-</tr>
-
-<tr>
-<th> lemonade </th>
-<th> 4 </th>
-</tr>
-
-<tr>
-<th> margarita </th>
-<th> 5 </th>
-</tr>
-
-<tr>
-<th> mimosa </th>
-<th> 5 </th>
-</tr>
-
-<tr>
-<th> beer </th>
-<th> 5 </th>
-</tr>
-
-<tr>
-<th> tequila </th>
-<th> 5 </th>
-</tr>
-
-<tr>
-<th> wine </th>
-<th> 5/20 </th>
-</tr>
-
-</table>
+| margarita | 5 |
+|---|---|
+| mimosa  |  5 |
+| tequila |  5 | 
+| beer |  5 | 
+| g+t |  5 | 
+| wine |  5/20 | 
