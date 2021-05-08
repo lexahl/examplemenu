@@ -21,7 +21,7 @@ Call or text [+1 (778) 802 7616](tel:+17788027616) to get your own QR Code menu.
 ## what is included:
 
 - the digitalization of your complete menu (like this website).
-- a modern, minimalist design
+- a modern, minimalist, easy-to-read design.
 - your own QR Code for the menu.
 - your own URL for the menu.
 - 1 menu update per month!
