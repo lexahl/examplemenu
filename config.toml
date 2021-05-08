@@ -25,8 +25,7 @@ pygmentsCodefences       = true
     source  = "/background.png"
     type    = "image/png"
     poster  = "/background.png"
-[params.videoBackground]
-    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
 
 [[params.mainMenu]]
     text = "menu"
