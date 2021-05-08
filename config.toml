@@ -41,5 +41,10 @@ pygmentsCodefences       = true
     text = "☞ drinks"
 
 
+
+[[params.mainMenu]]
+    link = "contact"
+    text = "contact"
+
 [imaging]
     quality = 75
