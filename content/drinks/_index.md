@@ -1,37 +1,32 @@
 ---
 title: "drinks"
-date: 2018-02-13T12:21:57-05:00
+date: 2021-02-02
 
 ---
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 # ☞ non-alcoholic  
 
-water      2\
+water      2
  
-coffee      2\
+coffee      2
 
-sparkling water      5\ 
+sparkling water      5
 
-lemonade      5\ 
+lemonade      5 
 
 
 # ☞ alcoholic 
 
 
-margarita      5\
+margarita      5
  
-mimosa      5\
+mimosa      5
 
-tequila      5\ 
+tequila      5 
 
-beer      5\ 
+beer      5 
 
-g+t      5\ 
+g+t      5 
 
-wine      5 / 20\ 
+wine      5 / 20 

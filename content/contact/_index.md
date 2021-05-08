@@ -3,7 +3,11 @@ title: "contact"
 url: "/contact"
 ---
 
-Call me [+1 (778) 802 7616](tel:+17788027616)  to get your own contactless menu today. Digital menus are hygienic, easy, and cheap.
+# ☞ what is a QR Code menu?
+A QR code menu is a digital menu that's accessible to your restaurant guests via their smartphones after scanning your menu's personalized QR code. Your guests will only have to scan the QR code with their mobile device to access the menu.
+
+
+Call or text [+1 (778) 802 7616](tel:+17788027616) to get your own QR Code menu. QR Code menus are hygienic, easy, and cheap.
 
 
 # ☞ starting at $10/month
