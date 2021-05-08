@@ -21,10 +21,6 @@ pygmentsCodefences       = true
     title                = "example digital menu"
     # rss                = ""
 
-[[params.videoBackground.sources]]
-    source  = "/background.png"
-    type    = "image/png"
-    poster  = "/background.png"
 
 
 [[params.mainMenu]]
