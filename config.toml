@@ -13,12 +13,12 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "menu.ico"
 
-    footerText           = "seafood restaurant menu"
+    footerText           = "example digital menu"
 
 # Metadata for Open Graph and Twitter
-    description          = "seafood restaurant menu"               # Max 160 characters show in search results
+    description          = "example digital menu"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "seafood restaurant menu"
+    title                = "example digital menu"
     # rss                = ""
 
 [[params.videoBackground.sources]]
